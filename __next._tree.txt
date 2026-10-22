@@ -246,4 +246,4 @@
 :HL["/_next/static/chunks/0wb2crzr0_b_8.css","style"]
 :HL["/chara-yuu.jpg","image"]
 :HL["/chara-akane.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"qME4cJtt9zMi1iaFL4Nio"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"U5CW17sp-AA9ZtthV5Lcz"}
